@@ -1,3 +1,4 @@
 SELECT name, id
 FROM students
-WHERE email is NULL OR phone is NULL;
+WHERE email is NULL 
+OR phone is NULL;

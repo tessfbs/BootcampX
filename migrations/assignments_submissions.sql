@@ -14,3 +14,6 @@ CREATE TABLE assignment_submissions (
   duration INTEGER,
   submission_date DATE
 );
+
+
+/Users/tessfbs/BootcampX/migrations/assignments_submissions.sql
